@@ -1,0 +1,19 @@
+{
+    "code": 0,
+    "data": {
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVVUlEIjoiMDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDAwMDAwMDAwIiwiSUQiOjAsIlVzZXJuYW1lIjoiIiwiTmlja05hbWUiOiIiLCJBdXRob3JpdHlJZCI6MCwiQnVmZmVyVGltZSI6MCwiVXNlck5hbWUiOiJqYWNrMDMwNyIsIkN1cnJlbmN5IjoiVVNEIiwiUmVnaW9uIjoiMyIsIkdhbWVGaWVsZCI6MH0.-YPOnel41ebOv8XlIjRGTg_irm61sxYI-0Zui3L3J78",
+        "user": {
+            "ID": 5386,
+            "createdAt": "2026-03-07T02:38:31.758Z",
+            "updatedAt": "2026-03-07T02:38:31.758Z",
+            "userName": "jack0307",
+            "passWord": "12345678",
+            "nickName": "黑豹VIP 909313548",
+            "currency": "USD",
+            "region": "0",
+            "gameField": 0,
+            "coin": 0
+        }
+    },
+    "msg": "查询成功"
+}
